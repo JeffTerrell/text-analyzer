@@ -76,7 +76,7 @@ $(document).ready(function() {
 // wordCounter(text);
 
 
-// Sample code 4 from lesson *******
+// Sample code 4 from lesson Test 1*******
 // const text = "hi there 77 19 in";
 
 // function wordCounter(text) {
@@ -96,3 +96,24 @@ $(document).ready(function() {
 // }
 
 // wordCounter(text);
+
+
+
+// Sample code 4 from lesson Test 2
+// const text1 = "red blue red red red green";
+// const word1 = "red"
+
+// function numberOfOccurrencesInText(word, text) {
+// 	const colorArrayOne = text.split(" ");
+//   let counter = 0;
+  
+//   colorArrayOne.forEach(function(element) {
+//     if (element === word) {
+//       counter ++;
+//     }
+// 	});
+//   console.log(counter);
+//   return counter
+// }
+
+// console.log(numberOfOccurrencesInText(word1, text1));
